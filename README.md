@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MonaMag
+- 👋 Hi, I’m @Mona
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning JavaScript, React and TypeScript
 
