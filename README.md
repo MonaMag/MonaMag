@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mona
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript, React and TypeScript
+- 🌱 I’m currently learning JavaScript, React, Redux and TypeScript
 
 - 📫 How to reach me: mona.mag@mail.ru
 
